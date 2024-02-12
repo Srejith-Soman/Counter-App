@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Srejith-Soman/Counter-App/static/css/main.e6c13ad2.css",
+    "main.js": "/Srejith-Soman/Counter-App/static/js/main.95f81a10.js",
+    "index.html": "/Srejith-Soman/Counter-App/index.html",
+    "main.e6c13ad2.css.map": "/Srejith-Soman/Counter-App/static/css/main.e6c13ad2.css.map",
+    "main.95f81a10.js.map": "/Srejith-Soman/Counter-App/static/js/main.95f81a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.95f81a10.js"
+  ]
+}
